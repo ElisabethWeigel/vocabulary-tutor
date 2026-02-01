@@ -1,0 +1,2657 @@
+{
+  "extractedAt": "2026-02-01T15:44:42.734268Z",
+  "sourceFiles": [
+    "20260119_100142.jpg",
+    "20260119_100148.jpg",
+    "20260119_100150.jpg",
+    "20260119_100156.jpg"
+  ],
+  "totalItems": 90,
+  "vocabularyItems": [
+    {
+      "id": "vocab_0001",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "sleeve"
+      },
+      "targetForm": {
+        "text": "Ärmel",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "In summer you wear shirts with short sleeves.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0002",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "insect"
+      },
+      "targetForm": {
+        "text": "Insekt",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "In humid regions there are often lots of insects.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0003",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "safe"
+      },
+      "targetForm": {
+        "text": "sicher; ungefährlich",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "This bridge is too old. It isn't safe to use it.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0004",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "tidy"
+      },
+      "targetForm": {
+        "text": "sauber; ordentlich",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Your room is always very tidy.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0005",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to bite"
+      },
+      "targetForm": {
+        "text": "beißen; stechen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Does your dog bite? It looks a bit scary!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0006",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to carry"
+      },
+      "targetForm": {
+        "text": "tragen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Can you carry this box for me, please?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0007",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "sunscreen"
+      },
+      "targetForm": {
+        "text": "Sonnencreme",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "The sun is shining. Don't forget to put on sunscreen.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0008",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "rain"
+      },
+      "targetForm": {
+        "text": "Regen",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Today there's a lot of rain and no sun.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0009",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "jacket"
+      },
+      "targetForm": {
+        "text": "Jacke",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "In summer you don't need a jacket.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0010",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "hiker"
+      },
+      "targetForm": {
+        "text": "Wanderer/Wanderin",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "There are a lot of hikers in the mountains.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0011",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "trash"
+      },
+      "targetForm": {
+        "text": "Abfall; Müll",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Don't throw your trash on the floor!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0012",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "ground"
+      },
+      "targetForm": {
+        "text": "Boden; Erdboden",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "My phone fell onto the ground and broke.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0013",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "opposite"
+      },
+      "targetForm": {
+        "text": "Gegenteil",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "What's the opposite of 'happy'? - 'It's 'unhappy'.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0014",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "fitting room"
+      },
+      "targetForm": {
+        "text": "Umkleidekabine",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Where are the fitting rooms? I'd like to try these pants on.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0015",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "sock"
+      },
+      "targetForm": {
+        "text": "Socke",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "You can't wear these socks in those shoes. It looks terrible!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0016",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "assistant"
+      },
+      "targetForm": {
+        "text": "Assistent/-in; Verkäufer/-in",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I'd like to buy this jacket. Where's the shop assistant?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0017",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to pick up"
+      },
+      "targetForm": {
+        "text": "aufheben; abholen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "There's paper on the floor. Please pick it up.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0018",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to smell"
+      },
+      "targetForm": {
+        "text": "riechen; duften",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "The flowers smell wonderful.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0019",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to touch"
+      },
+      "targetForm": {
+        "text": "berühren; antippen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Don't touch this dog. It could bite.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0020",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to replay"
+      },
+      "targetForm": {
+        "text": "erneut spielen; erneut abspie len",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I didn't understand the dialogue. Could you replay it, please?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0021",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to try on"
+      },
+      "targetForm": {
+        "text": "anprobieren",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "That's a nice shirt. Why don't you try it on?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0022",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to fit"
+      },
+      "targetForm": {
+        "text": "passen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "These pants don't fit. They're too short.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0023",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "perfectly"
+      },
+      "targetForm": {
+        "text": "perfekt",
+        "languageSpecificData": {}
+      },
+      "wordType": "adverb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "This T-shirt fits perfectly. You look great in it.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0024",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look"
+      },
+      "targetForm": {
+        "text": "schauen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0025",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to take"
+      },
+      "targetForm": {
+        "text": "nehmen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0026",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to take off"
+      },
+      "targetForm": {
+        "text": "abheben",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0027",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to turn on"
+      },
+      "targetForm": {
+        "text": "einschalten",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0028",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to turn up"
+      },
+      "targetForm": {
+        "text": "auftauchen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0029",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look forward to"
+      },
+      "targetForm": {
+        "text": "sich freuen auf",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0030",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look out for"
+      },
+      "targetForm": {
+        "text": "sich in Acht nehmen vor",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0031",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look up"
+      },
+      "targetForm": {
+        "text": "nachschlagen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0032",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to turn"
+      },
+      "targetForm": {
+        "text": "drehen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0033",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look after"
+      },
+      "targetForm": {
+        "text": "sich kümmern um",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0034",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to look for"
+      },
+      "targetForm": {
+        "text": "suchen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": 3,
+          "sourceFile": "20260119_100142.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:41:47.261179Z"
+    },
+    {
+      "id": "vocab_0035",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "attraction"
+      },
+      "targetForm": {
+        "text": "Attraktion; Sehenswürdigkeit",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "The blob is only one of Green Moose Camp's attractions.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0036",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "display"
+      },
+      "targetForm": {
+        "text": "Vorführung; Ausstellung; Schaukasten; Anzeige",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "At a flower show you can see a wonderful display of flowers.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0037",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to paddle"
+      },
+      "targetForm": {
+        "text": "paddeln",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Let's paddle across the lake.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0038",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "current"
+      },
+      "targetForm": {
+        "text": "Strömung",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Don't go swimming here. The currents are dangerous.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0039",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to capsize"
+      },
+      "targetForm": {
+        "text": "kentern",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Oh no! Our boat is going to capsize!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0040",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "planet"
+      },
+      "targetForm": {
+        "text": "Planet",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Aliens come from a different planet.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0041",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "spaceship"
+      },
+      "targetForm": {
+        "text": "Raumschiff",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "In science-fiction stories people often travel through space in spaceships.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0042",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "*to go sightseeing"
+      },
+      "targetForm": {
+        "text": "eine Besichtigungstour machen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Let's go sightseeing in Chicago!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0043",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "youth hostel"
+      },
+      "targetForm": {
+        "text": "Jugendherberge",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A youth hostel is a cheap place where young people can stay.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0044",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "key"
+      },
+      "targetForm": {
+        "text": "besonders wichtig",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "What were the key points of his presentation?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0045",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "against"
+      },
+      "targetForm": {
+        "text": "gegen",
+        "languageSpecificData": {}
+      },
+      "wordType": "preposition",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "It was against the rules to leave the camp at night.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0046",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "towards"
+      },
+      "targetForm": {
+        "text": "in Richtung",
+        "languageSpecificData": {}
+      },
+      "wordType": "preposition",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "They went out of the house and walked towards the river.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0047",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "pretty"
+      },
+      "targetForm": {
+        "text": "ziemlich; ganz schön",
+        "languageSpecificData": {}
+      },
+      "wordType": "adverb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I think that's a pretty silly idea.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0048",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "much"
+      },
+      "targetForm": {
+        "text": "sehr",
+        "languageSpecificData": {}
+      },
+      "wordType": "adverb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A small flashlight doesn't help much.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0049",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "countryside"
+      },
+      "targetForm": {
+        "text": "Land; Landschaft",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "We took a trip to the countryside. It was beautiful.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0050",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "track"
+      },
+      "targetForm": {
+        "text": "Spur; Fährte; Pfad; Bahn",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Do you see these tracks? They are of a cougar.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0051",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "tent"
+      },
+      "targetForm": {
+        "text": "Zelt",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I don't want to sleep in a tent. Let's go to a youth hostel.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0052",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to yawn"
+      },
+      "targetForm": {
+        "text": "gähnen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I know you're tired, but please try not to yawn all the time.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0053",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "*to tell sb to do sth"
+      },
+      "targetForm": {
+        "text": "jmdm. sagen, was er tun soll",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Our teacher told us to read our texts again and look out for mistakes.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0054",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "*to go for a walk"
+      },
+      "targetForm": {
+        "text": "spazieren gehen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "It's nice today. Let's go for a walk.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0055",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to grab"
+      },
+      "targetForm": {
+        "text": "greifen; ergreifen; schnappen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Holly grabbed her bag and left the house.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0056",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to tiptoe"
+      },
+      "targetForm": {
+        "text": "auf Zehenspitzen gehen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Shhh, you must tiptoe. Don't make any noise!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0057",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "flashlight"
+      },
+      "targetForm": {
+        "text": "Taschenlampe",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "It's dark outside. We need flashlights.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "8 Unit task: Our travel report",
+          "lessonId": null,
+          "page": 218,
+          "sourceFile": "20260119_100148.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:42:46.812583Z"
+    },
+    {
+      "id": "vocab_0058",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to pretend"
+      },
+      "targetForm": {
+        "text": "vorgeben; vortäuschen; so tun, als ob ...",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Let's pretend we aren't scared.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0059",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to grunt"
+      },
+      "targetForm": {
+        "text": "grunzen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Shhh! I think I heard an animal grunt.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0060",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "wide"
+      },
+      "targetForm": {
+        "text": "weit; breit; ausgedehnt",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "This trail isn't wide enough. You need to walk behind me.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0061",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "calm"
+      },
+      "targetForm": {
+        "text": "ruhig; friedlich",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Stay calm and don't move!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0062",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to go on"
+      },
+      "targetForm": {
+        "text": "weitergehen; weitermachen; weiterführen; fortfahren",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Don't tell me how the story goes on. I want to read it.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0063",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to splash"
+      },
+      "targetForm": {
+        "text": "spritzen; platschen; planschen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A huge bear was splashing through the water.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0064",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "backwards"
+      },
+      "targetForm": {
+        "text": "rückwärts",
+        "languageSpecificData": {}
+      },
+      "wordType": "adverb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "There was no space to turn around, so we had to walk backwards to get out of the cave.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0065",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "statue"
+      },
+      "targetForm": {
+        "text": "Statue; Standbild",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Oh look, that's not a statue, it's a man!",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0066",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to attack"
+      },
+      "targetForm": {
+        "text": "angreifen",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A bear attacked the hikers, but a ranger saved them.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0067",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to lift"
+      },
+      "targetForm": {
+        "text": "heben; anheben; sich heben",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Could you help me to lift this heavy rock?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0068",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "stone"
+      },
+      "targetForm": {
+        "text": "Stein",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Look out! There are big stones on the trail.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0069",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "no wonder"
+      },
+      "targetForm": {
+        "text": "kein Wunder",
+        "languageSpecificData": {}
+      },
+      "wordType": "other",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "He only sleeps five hours a night. No wonder he's tired.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0070",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "*to make sb do sth"
+      },
+      "targetForm": {
+        "text": "jmdn. veranlassen etw. zu tun",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "They made us tidy our cabin every day.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0071",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "terrible"
+      },
+      "targetForm": {
+        "text": "schrecklich; schlimm; furchtbar",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Our youth hostel was terrible. It was very loud and dirty.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0072",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "realistic"
+      },
+      "targetForm": {
+        "text": "realistisch",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Are your plans realistic?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0073",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "ability"
+      },
+      "targetForm": {
+        "text": "Fähigkeit; Begabung",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "He's got lots of different abilities. He's good at sports, Maths and singing.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0074",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "well"
+      },
+      "targetForm": {
+        "text": "gut",
+        "languageSpecificData": {}
+      },
+      "wordType": "adverb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "She loves singing but she can't sing very well.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0075",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "statement"
+      },
+      "targetForm": {
+        "text": "Aussage; Behauptung; Erklä rung",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I'd like to make a statement.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0076",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "advice"
+      },
+      "targetForm": {
+        "text": "Rat; Ratschlag",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "What advice can you give me?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": "Across cultures 2 Living together",
+          "lessonId": null,
+          "page": 219,
+          "sourceFile": "20260119_100150.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:43:46.464159Z"
+    },
+    {
+      "id": "vocab_0077",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "disability"
+      },
+      "targetForm": {
+        "text": "Behinderung; Unfähigkeit",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "At our school there are some students with disabilities.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0078",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "physical"
+      },
+      "targetForm": {
+        "text": "physisch; körperlich",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I'm in a wheelchair because I've got a physical disability.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0079",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "intellectual"
+      },
+      "targetForm": {
+        "text": "intellektuell; geistig",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "I sometimes play intellectual games on my phone.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0080",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "sign"
+      },
+      "targetForm": {
+        "text": "Zeichen; Schild",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "My brother can't hear. So we talk to him in sign language.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0081",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "guide dog"
+      },
+      "targetForm": {
+        "text": "Blindenhund",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A guide dog is a dog that helps people who can't see.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0082",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "inclusion"
+      },
+      "targetForm": {
+        "text": "Inklusion; Einbeziehung",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "At our school, we believe in the idea of inclusion.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0083",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "inclusive"
+      },
+      "targetForm": {
+        "text": "inklusiv; einschließlich; umfas send",
+        "languageSpecificData": {}
+      },
+      "wordType": "adjective",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "He went to a special school, but now he is in an inclusive class at my school.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0084",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "schooling"
+      },
+      "targetForm": {
+        "text": "Schulbildung",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Inclusive schooling is for children with and without disabilities.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0085",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "system"
+      },
+      "targetForm": {
+        "text": "System",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "What are the differences between the American and the German school systems?",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0086",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "to sign"
+      },
+      "targetForm": {
+        "text": "unterzeichnen; unterschreiben",
+        "languageSpecificData": {}
+      },
+      "wordType": "verb",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Please sign the letter before you send it.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0087",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "right"
+      },
+      "targetForm": {
+        "text": "Recht",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "Men and women have the same rights.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0088",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "success"
+      },
+      "targetForm": {
+        "text": "Erfolg",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "The movie was a big success.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0089",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "article"
+      },
+      "targetForm": {
+        "text": "Artikel; Bericht (in einer Zeit schrift, Zeitung)",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "On the TTS website there are lots of articles about clubs.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    },
+    {
+      "id": "vocab_0090",
+      "sourceLanguage": "en",
+      "targetLanguage": "de",
+      "sourceForm": {
+        "text": "cactus"
+      },
+      "targetForm": {
+        "text": "Kaktus",
+        "languageSpecificData": {}
+      },
+      "wordType": "noun",
+      "regularity": "unknown",
+      "exampleSentences": [
+        {
+          "source": "A plant that doesn't need much water, so it can even grow in the desert.",
+          "target": null
+        }
+      ],
+      "textbookMemberships": [
+        {
+          "textbookId": "unknown",
+          "unitId": null,
+          "lessonId": null,
+          "page": null,
+          "sourceFile": "20260119_100156.jpg"
+        }
+      ],
+      "extractedAt": "2026-02-01T15:44:42.713342Z"
+    }
+  ]
+}
