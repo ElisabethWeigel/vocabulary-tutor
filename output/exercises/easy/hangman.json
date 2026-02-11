@@ -1,0 +1,95 @@
+{
+  "id": "set_9763c221",
+  "name": "Hangman - Easy",
+  "exerciseType": "hangman",
+  "difficulty": "easy",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "hang_50768aa8",
+      "type": "hangman",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0011"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "trash",
+      "wordLength": 5,
+      "hint": "Abfall",
+      "category": "noun",
+      "maxAttempts": 8,
+      "revealedLetters": [
+        0
+      ]
+    },
+    {
+      "id": "hang_4472c833",
+      "type": "hangman",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0048"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "much",
+      "wordLength": 4,
+      "hint": "sehr",
+      "category": "adverb",
+      "maxAttempts": 8,
+      "revealedLetters": [
+        0
+      ]
+    },
+    {
+      "id": "hang_22132972",
+      "type": "hangman",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0002"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "insect",
+      "wordLength": 6,
+      "hint": "Insekt",
+      "category": "noun",
+      "maxAttempts": 8,
+      "revealedLetters": [
+        0
+      ]
+    },
+    {
+      "id": "hang_55025634",
+      "type": "hangman",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0040"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "planet",
+      "wordLength": 6,
+      "hint": "Planet",
+      "category": "noun",
+      "maxAttempts": 8,
+      "revealedLetters": [
+        0
+      ]
+    },
+    {
+      "id": "hang_0a5ff63e",
+      "type": "hangman",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0050"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "track",
+      "wordLength": 5,
+      "hint": "Spur",
+      "category": "noun",
+      "maxAttempts": 8,
+      "revealedLetters": [
+        0
+      ]
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.161016+00:00"
+}

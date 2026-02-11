@@ -1,0 +1,111 @@
+{
+  "id": "set_bc6ec72c",
+  "name": "Spelling - Easy",
+  "exerciseType": "spelling",
+  "difficulty": "easy",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "spell_03b18dd5",
+      "type": "spelling",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0087"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "Recht",
+      "englishWord": "right",
+      "scrambledLetters": [
+        "i",
+        "h",
+        "t",
+        "g",
+        "r"
+      ],
+      "hint": "Starts with 'R', 5 letters",
+      "letterCount": 5
+    },
+    {
+      "id": "spell_1570be1d",
+      "type": "spelling",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0010"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "Wanderer/Wanderin",
+      "englishWord": "hiker",
+      "scrambledLetters": [
+        "k",
+        "h",
+        "i",
+        "e",
+        "r"
+      ],
+      "hint": "Starts with 'H', 5 letters",
+      "letterCount": 5
+    },
+    {
+      "id": "spell_34b29fe9",
+      "type": "spelling",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0048"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "sehr",
+      "englishWord": "much",
+      "scrambledLetters": [
+        "h",
+        "c",
+        "m",
+        "u"
+      ],
+      "hint": "Starts with 'M', 4 letters",
+      "letterCount": 4
+    },
+    {
+      "id": "spell_eb07f29b",
+      "type": "spelling",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0047"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "ziemlich",
+      "englishWord": "pretty",
+      "scrambledLetters": [
+        "r",
+        "t",
+        "y",
+        "p",
+        "e",
+        "t"
+      ],
+      "hint": "Starts with 'P', 6 letters",
+      "letterCount": 6
+    },
+    {
+      "id": "spell_c365f632",
+      "type": "spelling",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0040"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "Planet",
+      "englishWord": "planet",
+      "scrambledLetters": [
+        "a",
+        "n",
+        "l",
+        "t",
+        "e",
+        "p"
+      ],
+      "hint": "Starts with 'P', 6 letters",
+      "letterCount": 6
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.160921+00:00"
+}

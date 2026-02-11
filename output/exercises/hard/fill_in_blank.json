@@ -1,0 +1,80 @@
+{
+  "id": "set_1d765995",
+  "name": "Fill In Blank - Hard",
+  "exerciseType": "fill_in_blank",
+  "difficulty": "hard",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "fib_35fc92e9",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0038"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Don't go swimming here. The ___s are dangerous.",
+      "blankPosition": 5,
+      "correctAnswer": "current",
+      "hint": null,
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_a7009258",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0011"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Don't throw your ___ on the floor!",
+      "blankPosition": 3,
+      "correctAnswer": "trash",
+      "hint": null,
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_55fdd1de",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0066"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "A bear attacked the hikers, but a ranger saved them.",
+      "blankPosition": 0,
+      "correctAnswer": "to attack",
+      "hint": null,
+      "wordType": "verb"
+    },
+    {
+      "id": "fib_2de1332d",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0041"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "In science-fiction stories people often travel through space in ___s.",
+      "blankPosition": 9,
+      "correctAnswer": "spaceship",
+      "hint": null,
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_dccbabea",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0018"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "The flowers smell wonderful.",
+      "blankPosition": 0,
+      "correctAnswer": "to smell",
+      "hint": null,
+      "wordType": "verb"
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.162672+00:00"
+}

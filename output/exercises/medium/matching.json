@@ -1,0 +1,315 @@
+{
+  "id": "set_4f311c34",
+  "name": "Matching - Medium",
+  "exerciseType": "matching",
+  "difficulty": "medium",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "match_6e5ec1ee",
+      "type": "matching",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0069",
+        "vocab_0058",
+        "vocab_0051",
+        "vocab_0088",
+        "vocab_0061",
+        "vocab_0037"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_b3777cb3",
+          "left": "no wonder",
+          "right": "kein Wunder",
+          "vocabularyId": "vocab_0069"
+        },
+        {
+          "id": "pair_02e94dd0",
+          "left": "to pretend",
+          "right": "vorgeben",
+          "vocabularyId": "vocab_0058"
+        },
+        {
+          "id": "pair_cecf595d",
+          "left": "tent",
+          "right": "Zelt",
+          "vocabularyId": "vocab_0051"
+        },
+        {
+          "id": "pair_d6a088c0",
+          "left": "success",
+          "right": "Erfolg",
+          "vocabularyId": "vocab_0088"
+        },
+        {
+          "id": "pair_a745e57b",
+          "left": "calm",
+          "right": "ruhig",
+          "vocabularyId": "vocab_0061"
+        },
+        {
+          "id": "pair_d7ea18d4",
+          "left": "to paddle",
+          "right": "paddeln",
+          "vocabularyId": "vocab_0037"
+        }
+      ],
+      "shuffledRight": [
+        "ruhig",
+        "Erfolg",
+        "paddeln",
+        "Zelt",
+        "vorgeben",
+        "kein Wunder"
+      ],
+      "pairCount": 6
+    },
+    {
+      "id": "match_c96b8752",
+      "type": "matching",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0084",
+        "vocab_0086",
+        "vocab_0038",
+        "vocab_0065",
+        "vocab_0066",
+        "vocab_0022"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_768bd11f",
+          "left": "schooling",
+          "right": "Schulbildung",
+          "vocabularyId": "vocab_0084"
+        },
+        {
+          "id": "pair_7db39288",
+          "left": "to sign",
+          "right": "unterzeichnen",
+          "vocabularyId": "vocab_0086"
+        },
+        {
+          "id": "pair_0c6d57e7",
+          "left": "current",
+          "right": "Strömung",
+          "vocabularyId": "vocab_0038"
+        },
+        {
+          "id": "pair_c4b9866a",
+          "left": "statue",
+          "right": "Statue",
+          "vocabularyId": "vocab_0065"
+        },
+        {
+          "id": "pair_c706312e",
+          "left": "to attack",
+          "right": "angreifen",
+          "vocabularyId": "vocab_0066"
+        },
+        {
+          "id": "pair_c8597ebe",
+          "left": "to fit",
+          "right": "passen",
+          "vocabularyId": "vocab_0022"
+        }
+      ],
+      "shuffledRight": [
+        "Statue",
+        "Strömung",
+        "unterzeichnen",
+        "passen",
+        "angreifen",
+        "Schulbildung"
+      ],
+      "pairCount": 6
+    },
+    {
+      "id": "match_e8c73019",
+      "type": "matching",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0057",
+        "vocab_0075",
+        "vocab_0090",
+        "vocab_0012",
+        "vocab_0048",
+        "vocab_0039"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_bbe02de3",
+          "left": "flashlight",
+          "right": "Taschenlampe",
+          "vocabularyId": "vocab_0057"
+        },
+        {
+          "id": "pair_577ff5f5",
+          "left": "statement",
+          "right": "Aussage",
+          "vocabularyId": "vocab_0075"
+        },
+        {
+          "id": "pair_5ae1fad2",
+          "left": "cactus",
+          "right": "Kaktus",
+          "vocabularyId": "vocab_0090"
+        },
+        {
+          "id": "pair_f51c59f6",
+          "left": "ground",
+          "right": "Boden",
+          "vocabularyId": "vocab_0012"
+        },
+        {
+          "id": "pair_93dfbe26",
+          "left": "much",
+          "right": "sehr",
+          "vocabularyId": "vocab_0048"
+        },
+        {
+          "id": "pair_f71f5ad6",
+          "left": "to capsize",
+          "right": "kentern",
+          "vocabularyId": "vocab_0039"
+        }
+      ],
+      "shuffledRight": [
+        "Aussage",
+        "Boden",
+        "Taschenlampe",
+        "Kaktus",
+        "kentern",
+        "sehr"
+      ],
+      "pairCount": 6
+    },
+    {
+      "id": "match_907842c1",
+      "type": "matching",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0073",
+        "vocab_0001",
+        "vocab_0006",
+        "vocab_0050",
+        "vocab_0021",
+        "vocab_0046"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_aeeb227c",
+          "left": "ability",
+          "right": "Fähigkeit",
+          "vocabularyId": "vocab_0073"
+        },
+        {
+          "id": "pair_a0484e45",
+          "left": "sleeve",
+          "right": "Ärmel",
+          "vocabularyId": "vocab_0001"
+        },
+        {
+          "id": "pair_816bbc85",
+          "left": "to carry",
+          "right": "tragen",
+          "vocabularyId": "vocab_0006"
+        },
+        {
+          "id": "pair_9f3ea007",
+          "left": "track",
+          "right": "Spur",
+          "vocabularyId": "vocab_0050"
+        },
+        {
+          "id": "pair_61015ff7",
+          "left": "to try on",
+          "right": "anprobieren",
+          "vocabularyId": "vocab_0021"
+        },
+        {
+          "id": "pair_b05bb388",
+          "left": "towards",
+          "right": "in Richtung",
+          "vocabularyId": "vocab_0046"
+        }
+      ],
+      "shuffledRight": [
+        "anprobieren",
+        "Fähigkeit",
+        "Ärmel",
+        "in Richtung",
+        "Spur",
+        "tragen"
+      ],
+      "pairCount": 6
+    },
+    {
+      "id": "match_41e07d86",
+      "type": "matching",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0028",
+        "vocab_0009",
+        "vocab_0071",
+        "vocab_0017",
+        "vocab_0080",
+        "vocab_0047"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_f516102f",
+          "left": "to turn up",
+          "right": "auftauchen",
+          "vocabularyId": "vocab_0028"
+        },
+        {
+          "id": "pair_c23f8df7",
+          "left": "jacket",
+          "right": "Jacke",
+          "vocabularyId": "vocab_0009"
+        },
+        {
+          "id": "pair_cb3def59",
+          "left": "terrible",
+          "right": "schrecklich",
+          "vocabularyId": "vocab_0071"
+        },
+        {
+          "id": "pair_05077697",
+          "left": "to pick up",
+          "right": "aufheben",
+          "vocabularyId": "vocab_0017"
+        },
+        {
+          "id": "pair_3ccea7db",
+          "left": "sign",
+          "right": "Zeichen",
+          "vocabularyId": "vocab_0080"
+        },
+        {
+          "id": "pair_36f16476",
+          "left": "pretty",
+          "right": "ziemlich",
+          "vocabularyId": "vocab_0047"
+        }
+      ],
+      "shuffledRight": [
+        "ziemlich",
+        "Jacke",
+        "auftauchen",
+        "aufheben",
+        "schrecklich",
+        "Zeichen"
+      ],
+      "pairCount": 6
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.161717+00:00"
+}

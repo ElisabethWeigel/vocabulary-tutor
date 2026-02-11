@@ -1,0 +1,85 @@
+{
+  "id": "set_0d436b39",
+  "name": "Hangman - Hard",
+  "exerciseType": "hangman",
+  "difficulty": "hard",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "hang_a047f3f9",
+      "type": "hangman",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0016"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "assistant",
+      "wordLength": 9,
+      "hint": "Assistent/-in",
+      "category": "noun",
+      "maxAttempts": 5,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_008f4307",
+      "type": "hangman",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0040"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "planet",
+      "wordLength": 6,
+      "hint": "Planet",
+      "category": "noun",
+      "maxAttempts": 5,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_65c0ed3e",
+      "type": "hangman",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0072"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "realistic",
+      "wordLength": 9,
+      "hint": "realistisch",
+      "category": "adjective",
+      "maxAttempts": 5,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_67209e68",
+      "type": "hangman",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0013"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "opposite",
+      "wordLength": 8,
+      "hint": "Gegenteil",
+      "category": "noun",
+      "maxAttempts": 5,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_5af4fd07",
+      "type": "hangman",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0069"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "no wonder",
+      "wordLength": 9,
+      "hint": "kein Wunder",
+      "category": "other",
+      "maxAttempts": 5,
+      "revealedLetters": []
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.163409+00:00"
+}

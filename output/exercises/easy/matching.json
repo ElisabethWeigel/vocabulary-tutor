@@ -1,0 +1,235 @@
+{
+  "id": "set_709d8992",
+  "name": "Matching - Easy",
+  "exerciseType": "matching",
+  "difficulty": "easy",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "match_29ee4e48",
+      "type": "matching",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0074",
+        "vocab_0051",
+        "vocab_0061",
+        "vocab_0076"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_b80a8bbb",
+          "left": "well",
+          "right": "gut",
+          "vocabularyId": "vocab_0074"
+        },
+        {
+          "id": "pair_f8b1fc08",
+          "left": "tent",
+          "right": "Zelt",
+          "vocabularyId": "vocab_0051"
+        },
+        {
+          "id": "pair_11680a72",
+          "left": "calm",
+          "right": "ruhig",
+          "vocabularyId": "vocab_0061"
+        },
+        {
+          "id": "pair_cce40fb8",
+          "left": "advice",
+          "right": "Rat",
+          "vocabularyId": "vocab_0076"
+        }
+      ],
+      "shuffledRight": [
+        "Rat",
+        "Zelt",
+        "ruhig",
+        "gut"
+      ],
+      "pairCount": 4
+    },
+    {
+      "id": "match_5dcf87a4",
+      "type": "matching",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0008",
+        "vocab_0047",
+        "vocab_0048",
+        "vocab_0003"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_eb8c179c",
+          "left": "rain",
+          "right": "Regen",
+          "vocabularyId": "vocab_0008"
+        },
+        {
+          "id": "pair_8fb16054",
+          "left": "pretty",
+          "right": "ziemlich",
+          "vocabularyId": "vocab_0047"
+        },
+        {
+          "id": "pair_d0718910",
+          "left": "much",
+          "right": "sehr",
+          "vocabularyId": "vocab_0048"
+        },
+        {
+          "id": "pair_8c26e894",
+          "left": "safe",
+          "right": "sicher",
+          "vocabularyId": "vocab_0003"
+        }
+      ],
+      "shuffledRight": [
+        "sehr",
+        "ziemlich",
+        "sicher",
+        "Regen"
+      ],
+      "pairCount": 4
+    },
+    {
+      "id": "match_df2cd8c1",
+      "type": "matching",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0060",
+        "vocab_0011",
+        "vocab_0087",
+        "vocab_0080"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_9403aaa8",
+          "left": "wide",
+          "right": "weit",
+          "vocabularyId": "vocab_0060"
+        },
+        {
+          "id": "pair_72850fa8",
+          "left": "trash",
+          "right": "Abfall",
+          "vocabularyId": "vocab_0011"
+        },
+        {
+          "id": "pair_161eb7fc",
+          "left": "right",
+          "right": "Recht",
+          "vocabularyId": "vocab_0087"
+        },
+        {
+          "id": "pair_3be86598",
+          "left": "sign",
+          "right": "Zeichen",
+          "vocabularyId": "vocab_0080"
+        }
+      ],
+      "shuffledRight": [
+        "Zeichen",
+        "Recht",
+        "Abfall",
+        "weit"
+      ],
+      "pairCount": 4
+    },
+    {
+      "id": "match_3e30d35c",
+      "type": "matching",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0022",
+        "vocab_0004",
+        "vocab_0065",
+        "vocab_0040"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_282e896d",
+          "left": "to fit",
+          "right": "passen",
+          "vocabularyId": "vocab_0022"
+        },
+        {
+          "id": "pair_54b3f771",
+          "left": "tidy",
+          "right": "sauber",
+          "vocabularyId": "vocab_0004"
+        },
+        {
+          "id": "pair_2671a133",
+          "left": "statue",
+          "right": "Statue",
+          "vocabularyId": "vocab_0065"
+        },
+        {
+          "id": "pair_22b0d4da",
+          "left": "planet",
+          "right": "Planet",
+          "vocabularyId": "vocab_0040"
+        }
+      ],
+      "shuffledRight": [
+        "passen",
+        "Statue",
+        "Planet",
+        "sauber"
+      ],
+      "pairCount": 4
+    },
+    {
+      "id": "match_3af1c328",
+      "type": "matching",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0012",
+        "vocab_0009",
+        "vocab_0001",
+        "vocab_0044"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_8f2af230",
+          "left": "ground",
+          "right": "Boden",
+          "vocabularyId": "vocab_0012"
+        },
+        {
+          "id": "pair_2cba5cd2",
+          "left": "jacket",
+          "right": "Jacke",
+          "vocabularyId": "vocab_0009"
+        },
+        {
+          "id": "pair_c5ac336b",
+          "left": "sleeve",
+          "right": "Ärmel",
+          "vocabularyId": "vocab_0001"
+        },
+        {
+          "id": "pair_f1cfa9a0",
+          "left": "key",
+          "right": "besonders wichtig",
+          "vocabularyId": "vocab_0044"
+        }
+      ],
+      "shuffledRight": [
+        "Boden",
+        "besonders wichtig",
+        "Jacke",
+        "Ärmel"
+      ],
+      "pairCount": 4
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.160791+00:00"
+}

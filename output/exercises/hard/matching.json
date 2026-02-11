@@ -1,0 +1,395 @@
+{
+  "id": "set_547041f9",
+  "name": "Matching - Hard",
+  "exerciseType": "matching",
+  "difficulty": "hard",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "match_a740f8ec",
+      "type": "matching",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0066",
+        "vocab_0009",
+        "vocab_0048",
+        "vocab_0037",
+        "vocab_0056",
+        "vocab_0015",
+        "vocab_0021",
+        "vocab_0080"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_ef7169f9",
+          "left": "to attack",
+          "right": "angreifen",
+          "vocabularyId": "vocab_0066"
+        },
+        {
+          "id": "pair_4f695c6a",
+          "left": "jacket",
+          "right": "Jacke",
+          "vocabularyId": "vocab_0009"
+        },
+        {
+          "id": "pair_e3a3ea58",
+          "left": "much",
+          "right": "sehr",
+          "vocabularyId": "vocab_0048"
+        },
+        {
+          "id": "pair_ab5ddf2b",
+          "left": "to paddle",
+          "right": "paddeln",
+          "vocabularyId": "vocab_0037"
+        },
+        {
+          "id": "pair_adfb5c5e",
+          "left": "to tiptoe",
+          "right": "auf Zehenspitzen gehen",
+          "vocabularyId": "vocab_0056"
+        },
+        {
+          "id": "pair_a3dba10b",
+          "left": "sock",
+          "right": "Socke",
+          "vocabularyId": "vocab_0015"
+        },
+        {
+          "id": "pair_08e83018",
+          "left": "to try on",
+          "right": "anprobieren",
+          "vocabularyId": "vocab_0021"
+        },
+        {
+          "id": "pair_6c681872",
+          "left": "sign",
+          "right": "Zeichen",
+          "vocabularyId": "vocab_0080"
+        }
+      ],
+      "shuffledRight": [
+        "anprobieren",
+        "paddeln",
+        "Socke",
+        "Zeichen",
+        "angreifen",
+        "sehr",
+        "Jacke",
+        "auf Zehenspitzen gehen"
+      ],
+      "pairCount": 8
+    },
+    {
+      "id": "match_28832536",
+      "type": "matching",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0001",
+        "vocab_0041",
+        "vocab_0022",
+        "vocab_0088",
+        "vocab_0006",
+        "vocab_0018",
+        "vocab_0075",
+        "vocab_0016"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_c9c8feea",
+          "left": "sleeve",
+          "right": "Ärmel",
+          "vocabularyId": "vocab_0001"
+        },
+        {
+          "id": "pair_3ba0c20c",
+          "left": "spaceship",
+          "right": "Raumschiff",
+          "vocabularyId": "vocab_0041"
+        },
+        {
+          "id": "pair_174e5be9",
+          "left": "to fit",
+          "right": "passen",
+          "vocabularyId": "vocab_0022"
+        },
+        {
+          "id": "pair_f93da78b",
+          "left": "success",
+          "right": "Erfolg",
+          "vocabularyId": "vocab_0088"
+        },
+        {
+          "id": "pair_9801a77d",
+          "left": "to carry",
+          "right": "tragen",
+          "vocabularyId": "vocab_0006"
+        },
+        {
+          "id": "pair_2349dba1",
+          "left": "to smell",
+          "right": "riechen",
+          "vocabularyId": "vocab_0018"
+        },
+        {
+          "id": "pair_5db29cfe",
+          "left": "statement",
+          "right": "Aussage",
+          "vocabularyId": "vocab_0075"
+        },
+        {
+          "id": "pair_d7074b65",
+          "left": "assistant",
+          "right": "Assistent/-in",
+          "vocabularyId": "vocab_0016"
+        }
+      ],
+      "shuffledRight": [
+        "tragen",
+        "Ärmel",
+        "Raumschiff",
+        "Assistent/-in",
+        "passen",
+        "Erfolg",
+        "Aussage",
+        "riechen"
+      ],
+      "pairCount": 8
+    },
+    {
+      "id": "match_05c007bf",
+      "type": "matching",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0074",
+        "vocab_0036",
+        "vocab_0062",
+        "vocab_0072",
+        "vocab_0017",
+        "vocab_0076",
+        "vocab_0058",
+        "vocab_0043"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_50070bd7",
+          "left": "well",
+          "right": "gut",
+          "vocabularyId": "vocab_0074"
+        },
+        {
+          "id": "pair_9f4b6ce0",
+          "left": "display",
+          "right": "Vorführung",
+          "vocabularyId": "vocab_0036"
+        },
+        {
+          "id": "pair_efc0944d",
+          "left": "to go on",
+          "right": "weitergehen",
+          "vocabularyId": "vocab_0062"
+        },
+        {
+          "id": "pair_3530756e",
+          "left": "realistic",
+          "right": "realistisch",
+          "vocabularyId": "vocab_0072"
+        },
+        {
+          "id": "pair_deb5c505",
+          "left": "to pick up",
+          "right": "aufheben",
+          "vocabularyId": "vocab_0017"
+        },
+        {
+          "id": "pair_061a5da5",
+          "left": "advice",
+          "right": "Rat",
+          "vocabularyId": "vocab_0076"
+        },
+        {
+          "id": "pair_748022a2",
+          "left": "to pretend",
+          "right": "vorgeben",
+          "vocabularyId": "vocab_0058"
+        },
+        {
+          "id": "pair_120eddc5",
+          "left": "youth hostel",
+          "right": "Jugendherberge",
+          "vocabularyId": "vocab_0043"
+        }
+      ],
+      "shuffledRight": [
+        "aufheben",
+        "Jugendherberge",
+        "Vorführung",
+        "vorgeben",
+        "Rat",
+        "gut",
+        "weitergehen",
+        "realistisch"
+      ],
+      "pairCount": 8
+    },
+    {
+      "id": "match_544c5d48",
+      "type": "matching",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0050",
+        "vocab_0019",
+        "vocab_0089",
+        "vocab_0045",
+        "vocab_0051",
+        "vocab_0039",
+        "vocab_0024",
+        "vocab_0059"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_b1c6e0b7",
+          "left": "track",
+          "right": "Spur",
+          "vocabularyId": "vocab_0050"
+        },
+        {
+          "id": "pair_fda40504",
+          "left": "to touch",
+          "right": "berühren",
+          "vocabularyId": "vocab_0019"
+        },
+        {
+          "id": "pair_87db04a9",
+          "left": "article",
+          "right": "Artikel",
+          "vocabularyId": "vocab_0089"
+        },
+        {
+          "id": "pair_319f1b65",
+          "left": "against",
+          "right": "gegen",
+          "vocabularyId": "vocab_0045"
+        },
+        {
+          "id": "pair_0c2a7b9b",
+          "left": "tent",
+          "right": "Zelt",
+          "vocabularyId": "vocab_0051"
+        },
+        {
+          "id": "pair_a86d36c2",
+          "left": "to capsize",
+          "right": "kentern",
+          "vocabularyId": "vocab_0039"
+        },
+        {
+          "id": "pair_74b6a86e",
+          "left": "to look",
+          "right": "schauen",
+          "vocabularyId": "vocab_0024"
+        },
+        {
+          "id": "pair_b583577a",
+          "left": "to grunt",
+          "right": "grunzen",
+          "vocabularyId": "vocab_0059"
+        }
+      ],
+      "shuffledRight": [
+        "schauen",
+        "Zelt",
+        "kentern",
+        "Spur",
+        "grunzen",
+        "Artikel",
+        "berühren",
+        "gegen"
+      ],
+      "pairCount": 8
+    },
+    {
+      "id": "match_889cd0f2",
+      "type": "matching",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0003",
+        "vocab_0090",
+        "vocab_0008",
+        "vocab_0057",
+        "vocab_0069",
+        "vocab_0031",
+        "vocab_0005",
+        "vocab_0071"
+      ],
+      "instructions": "Match the English words with their German translations.",
+      "pairs": [
+        {
+          "id": "pair_de5d8946",
+          "left": "safe",
+          "right": "sicher",
+          "vocabularyId": "vocab_0003"
+        },
+        {
+          "id": "pair_9a1706c1",
+          "left": "cactus",
+          "right": "Kaktus",
+          "vocabularyId": "vocab_0090"
+        },
+        {
+          "id": "pair_5c05cd3a",
+          "left": "rain",
+          "right": "Regen",
+          "vocabularyId": "vocab_0008"
+        },
+        {
+          "id": "pair_805efcd9",
+          "left": "flashlight",
+          "right": "Taschenlampe",
+          "vocabularyId": "vocab_0057"
+        },
+        {
+          "id": "pair_348028d2",
+          "left": "no wonder",
+          "right": "kein Wunder",
+          "vocabularyId": "vocab_0069"
+        },
+        {
+          "id": "pair_3e36f3b7",
+          "left": "to look up",
+          "right": "nachschlagen",
+          "vocabularyId": "vocab_0031"
+        },
+        {
+          "id": "pair_1540a104",
+          "left": "to bite",
+          "right": "beißen",
+          "vocabularyId": "vocab_0005"
+        },
+        {
+          "id": "pair_90b6b4f9",
+          "left": "terrible",
+          "right": "schrecklich",
+          "vocabularyId": "vocab_0071"
+        }
+      ],
+      "shuffledRight": [
+        "Regen",
+        "sicher",
+        "schrecklich",
+        "kein Wunder",
+        "Taschenlampe",
+        "nachschlagen",
+        "beißen",
+        "Kaktus"
+      ],
+      "pairCount": 8
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.163006+00:00"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "set_a63ea062",
+  "name": "Spelling - Medium",
+  "exerciseType": "spelling",
+  "difficulty": "medium",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "spell_dd2369a7",
+      "type": "spelling",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0023"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "perfekt",
+      "englishWord": "perfectly",
+      "scrambledLetters": [
+        "e",
+        "p",
+        "e",
+        "c",
+        "l",
+        "r",
+        "y",
+        "t",
+        "f"
+      ],
+      "hint": "9 letters",
+      "letterCount": 9
+    },
+    {
+      "id": "spell_fd3e0e68",
+      "type": "spelling",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0059"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "grunzen",
+      "englishWord": "to grunt",
+      "scrambledLetters": [
+        "n",
+        "u",
+        "t",
+        "r",
+        "t",
+        "o",
+        " ",
+        "g"
+      ],
+      "hint": "8 letters",
+      "letterCount": 8
+    },
+    {
+      "id": "spell_54982a5a",
+      "type": "spelling",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0019"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "berühren",
+      "englishWord": "to touch",
+      "scrambledLetters": [
+        "o",
+        "o",
+        "u",
+        " ",
+        "c",
+        "h",
+        "t",
+        "t"
+      ],
+      "hint": "8 letters",
+      "letterCount": 8
+    },
+    {
+      "id": "spell_20e42d10",
+      "type": "spelling",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0039"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "kentern",
+      "englishWord": "to capsize",
+      "scrambledLetters": [
+        "i",
+        "p",
+        "c",
+        "t",
+        "o",
+        "s",
+        "z",
+        "a",
+        " ",
+        "e"
+      ],
+      "hint": "10 letters",
+      "letterCount": 10
+    },
+    {
+      "id": "spell_f6425c8e",
+      "type": "spelling",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0060"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "weit",
+      "englishWord": "wide",
+      "scrambledLetters": [
+        "i",
+        "w",
+        "d",
+        "e"
+      ],
+      "hint": "4 letters",
+      "letterCount": 4
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.161837+00:00"
+}

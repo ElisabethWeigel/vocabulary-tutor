@@ -1,0 +1,80 @@
+{
+  "id": "set_18d566df",
+  "name": "Fill In Blank - Medium",
+  "exerciseType": "fill_in_blank",
+  "difficulty": "medium",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "fib_78a9b6e1",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0085"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "What are the differences between the American and the German school ___s?",
+      "blankPosition": 11,
+      "correctAnswer": "system",
+      "hint": "System",
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_d17a9e7f",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0056"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Shhh, you must tiptoe. Don't make any noise!",
+      "blankPosition": 0,
+      "correctAnswer": "to tiptoe",
+      "hint": "auf Zehenspitzen gehen",
+      "wordType": "verb"
+    },
+    {
+      "id": "fib_3af73a84",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0011"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Don't throw your ___ on the floor!",
+      "blankPosition": 3,
+      "correctAnswer": "trash",
+      "hint": "Abfall",
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_f8deda0b",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0071"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Our youth hostel was ___. It was very loud and dirty.",
+      "blankPosition": 4,
+      "correctAnswer": "terrible",
+      "hint": "schrecklich",
+      "wordType": "adjective"
+    },
+    {
+      "id": "fib_87ffd75f",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0038"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Don't go swimming here. The ___s are dangerous.",
+      "blankPosition": 5,
+      "correctAnswer": "current",
+      "hint": "Strömung",
+      "wordType": "noun"
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.161293+00:00"
+}

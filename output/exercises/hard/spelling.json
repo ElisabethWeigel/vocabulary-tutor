@@ -1,0 +1,116 @@
+{
+  "id": "set_78e065be",
+  "name": "Spelling - Hard",
+  "exerciseType": "spelling",
+  "difficulty": "hard",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "spell_8aa6e009",
+      "type": "spelling",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0060"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "weit",
+      "englishWord": "wide",
+      "scrambledLetters": [
+        "w",
+        "e",
+        "i",
+        "d"
+      ],
+      "hint": null,
+      "letterCount": 4
+    },
+    {
+      "id": "spell_b0e9a281",
+      "type": "spelling",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0004"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "sauber",
+      "englishWord": "tidy",
+      "scrambledLetters": [
+        "y",
+        "d",
+        "t",
+        "i"
+      ],
+      "hint": null,
+      "letterCount": 4
+    },
+    {
+      "id": "spell_485ad29b",
+      "type": "spelling",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0050"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "Spur",
+      "englishWord": "track",
+      "scrambledLetters": [
+        "r",
+        "a",
+        "k",
+        "c",
+        "t"
+      ],
+      "hint": null,
+      "letterCount": 5
+    },
+    {
+      "id": "spell_9f1503ee",
+      "type": "spelling",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0033"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "sich kümmern um",
+      "englishWord": "to look after",
+      "scrambledLetters": [
+        "r",
+        "e",
+        "k",
+        "f",
+        " ",
+        "o",
+        "t",
+        "a",
+        "o",
+        "o",
+        "l",
+        "t",
+        " "
+      ],
+      "hint": null,
+      "letterCount": 13
+    },
+    {
+      "id": "spell_026d74ec",
+      "type": "spelling",
+      "difficulty": "hard",
+      "vocabularyIds": [
+        "vocab_0087"
+      ],
+      "instructions": "Arrange the letters to spell the English word.",
+      "germanWord": "Recht",
+      "englishWord": "right",
+      "scrambledLetters": [
+        "h",
+        "r",
+        "t",
+        "i",
+        "g"
+      ],
+      "hint": null,
+      "letterCount": 5
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.163210+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "set_aab92709",
+  "name": "Fill In Blank - Easy",
+  "exerciseType": "fill_in_blank",
+  "difficulty": "easy",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "fib_7cc6b946",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0050"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Do you see these ___s? They are of a cougar.",
+      "blankPosition": 4,
+      "correctAnswer": "track",
+      "hint": "Spur",
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_294ffea8",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0061"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "Stay ___ and don't move!",
+      "blankPosition": 1,
+      "correctAnswer": "calm",
+      "hint": "ruhig",
+      "wordType": "adjective"
+    },
+    {
+      "id": "fib_d6b30bc0",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0085"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "What are the differences between the American and the German school ___s?",
+      "blankPosition": 11,
+      "correctAnswer": "system",
+      "hint": "System",
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_29468085",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0002"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "In humid regions there are often lots of ___s.",
+      "blankPosition": 8,
+      "correctAnswer": "insect",
+      "hint": "Insekt",
+      "wordType": "noun"
+    },
+    {
+      "id": "fib_a7d7c18a",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "vocabularyIds": [
+        "vocab_0090"
+      ],
+      "instructions": "Fill in the blank with the correct English word.",
+      "sentence": "A plant that doesn't need much water, so it can even grow in the desert.",
+      "blankPosition": 0,
+      "correctAnswer": "cactus",
+      "hint": "Kaktus",
+      "wordType": "noun"
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.160392+00:00"
+}

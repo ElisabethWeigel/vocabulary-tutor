@@ -1,0 +1,85 @@
+{
+  "id": "set_d5ea2ad1",
+  "name": "Hangman - Medium",
+  "exerciseType": "hangman",
+  "difficulty": "medium",
+  "exerciseCount": 5,
+  "exercises": [
+    {
+      "id": "hang_6ee7aaa7",
+      "type": "hangman",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0015"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "sock",
+      "wordLength": 4,
+      "hint": "Socke",
+      "category": "noun",
+      "maxAttempts": 6,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_29327b49",
+      "type": "hangman",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0062"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "to go on",
+      "wordLength": 8,
+      "hint": "weitergehen",
+      "category": "verb",
+      "maxAttempts": 6,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_1371394c",
+      "type": "hangman",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0072"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "realistic",
+      "wordLength": 9,
+      "hint": "realistisch",
+      "category": "adjective",
+      "maxAttempts": 6,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_3d122b60",
+      "type": "hangman",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0069"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "no wonder",
+      "wordLength": 9,
+      "hint": "kein Wunder",
+      "category": "other",
+      "maxAttempts": 6,
+      "revealedLetters": []
+    },
+    {
+      "id": "hang_667d961f",
+      "type": "hangman",
+      "difficulty": "medium",
+      "vocabularyIds": [
+        "vocab_0074"
+      ],
+      "instructions": "Guess the English word letter by letter.",
+      "word": "well",
+      "wordLength": 4,
+      "hint": "gut",
+      "category": "adverb",
+      "maxAttempts": 6,
+      "revealedLetters": []
+    }
+  ],
+  "createdAt": "2026-02-11T08:12:50.162168+00:00"
+}

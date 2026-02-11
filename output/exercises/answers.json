@@ -1,0 +1,311 @@
+{
+  "easy_fill_in_blank": {
+    "fib_7cc6b946": {
+      "answer": "track"
+    },
+    "fib_294ffea8": {
+      "answer": "calm"
+    },
+    "fib_d6b30bc0": {
+      "answer": "system"
+    },
+    "fib_29468085": {
+      "answer": "insect"
+    },
+    "fib_a7d7c18a": {
+      "answer": "cactus"
+    }
+  },
+  "easy_matching": {
+    "match_29ee4e48": {
+      "pairs": {
+        "well": "gut",
+        "tent": "Zelt",
+        "calm": "ruhig",
+        "advice": "Rat"
+      }
+    },
+    "match_5dcf87a4": {
+      "pairs": {
+        "rain": "Regen",
+        "pretty": "ziemlich",
+        "much": "sehr",
+        "safe": "sicher"
+      }
+    },
+    "match_df2cd8c1": {
+      "pairs": {
+        "wide": "weit",
+        "trash": "Abfall",
+        "right": "Recht",
+        "sign": "Zeichen"
+      }
+    },
+    "match_3e30d35c": {
+      "pairs": {
+        "to fit": "passen",
+        "tidy": "sauber",
+        "statue": "Statue",
+        "planet": "Planet"
+      }
+    },
+    "match_3af1c328": {
+      "pairs": {
+        "ground": "Boden",
+        "jacket": "Jacke",
+        "sleeve": "Ärmel",
+        "key": "besonders wichtig"
+      }
+    }
+  },
+  "easy_spelling": {
+    "spell_03b18dd5": {
+      "answer": "right"
+    },
+    "spell_1570be1d": {
+      "answer": "hiker"
+    },
+    "spell_34b29fe9": {
+      "answer": "much"
+    },
+    "spell_eb07f29b": {
+      "answer": "pretty"
+    },
+    "spell_c365f632": {
+      "answer": "planet"
+    }
+  },
+  "easy_hangman": {
+    "hang_50768aa8": {
+      "answer": "trash"
+    },
+    "hang_4472c833": {
+      "answer": "much"
+    },
+    "hang_22132972": {
+      "answer": "insect"
+    },
+    "hang_55025634": {
+      "answer": "planet"
+    },
+    "hang_0a5ff63e": {
+      "answer": "track"
+    }
+  },
+  "medium_fill_in_blank": {
+    "fib_78a9b6e1": {
+      "answer": "system"
+    },
+    "fib_d17a9e7f": {
+      "answer": "to tiptoe"
+    },
+    "fib_3af73a84": {
+      "answer": "trash"
+    },
+    "fib_f8deda0b": {
+      "answer": "terrible"
+    },
+    "fib_87ffd75f": {
+      "answer": "current"
+    }
+  },
+  "medium_matching": {
+    "match_6e5ec1ee": {
+      "pairs": {
+        "no wonder": "kein Wunder",
+        "to pretend": "vorgeben",
+        "tent": "Zelt",
+        "success": "Erfolg",
+        "calm": "ruhig",
+        "to paddle": "paddeln"
+      }
+    },
+    "match_c96b8752": {
+      "pairs": {
+        "schooling": "Schulbildung",
+        "to sign": "unterzeichnen",
+        "current": "Strömung",
+        "statue": "Statue",
+        "to attack": "angreifen",
+        "to fit": "passen"
+      }
+    },
+    "match_e8c73019": {
+      "pairs": {
+        "flashlight": "Taschenlampe",
+        "statement": "Aussage",
+        "cactus": "Kaktus",
+        "ground": "Boden",
+        "much": "sehr",
+        "to capsize": "kentern"
+      }
+    },
+    "match_907842c1": {
+      "pairs": {
+        "ability": "Fähigkeit",
+        "sleeve": "Ärmel",
+        "to carry": "tragen",
+        "track": "Spur",
+        "to try on": "anprobieren",
+        "towards": "in Richtung"
+      }
+    },
+    "match_41e07d86": {
+      "pairs": {
+        "to turn up": "auftauchen",
+        "jacket": "Jacke",
+        "terrible": "schrecklich",
+        "to pick up": "aufheben",
+        "sign": "Zeichen",
+        "pretty": "ziemlich"
+      }
+    }
+  },
+  "medium_spelling": {
+    "spell_dd2369a7": {
+      "answer": "perfectly"
+    },
+    "spell_fd3e0e68": {
+      "answer": "to grunt"
+    },
+    "spell_54982a5a": {
+      "answer": "to touch"
+    },
+    "spell_20e42d10": {
+      "answer": "to capsize"
+    },
+    "spell_f6425c8e": {
+      "answer": "wide"
+    }
+  },
+  "medium_hangman": {
+    "hang_6ee7aaa7": {
+      "answer": "sock"
+    },
+    "hang_29327b49": {
+      "answer": "to go on"
+    },
+    "hang_1371394c": {
+      "answer": "realistic"
+    },
+    "hang_3d122b60": {
+      "answer": "no wonder"
+    },
+    "hang_667d961f": {
+      "answer": "well"
+    }
+  },
+  "hard_fill_in_blank": {
+    "fib_35fc92e9": {
+      "answer": "current"
+    },
+    "fib_a7009258": {
+      "answer": "trash"
+    },
+    "fib_55fdd1de": {
+      "answer": "to attack"
+    },
+    "fib_2de1332d": {
+      "answer": "spaceship"
+    },
+    "fib_dccbabea": {
+      "answer": "to smell"
+    }
+  },
+  "hard_matching": {
+    "match_a740f8ec": {
+      "pairs": {
+        "to attack": "angreifen",
+        "jacket": "Jacke",
+        "much": "sehr",
+        "to paddle": "paddeln",
+        "to tiptoe": "auf Zehenspitzen gehen",
+        "sock": "Socke",
+        "to try on": "anprobieren",
+        "sign": "Zeichen"
+      }
+    },
+    "match_28832536": {
+      "pairs": {
+        "sleeve": "Ärmel",
+        "spaceship": "Raumschiff",
+        "to fit": "passen",
+        "success": "Erfolg",
+        "to carry": "tragen",
+        "to smell": "riechen",
+        "statement": "Aussage",
+        "assistant": "Assistent/-in"
+      }
+    },
+    "match_05c007bf": {
+      "pairs": {
+        "well": "gut",
+        "display": "Vorführung",
+        "to go on": "weitergehen",
+        "realistic": "realistisch",
+        "to pick up": "aufheben",
+        "advice": "Rat",
+        "to pretend": "vorgeben",
+        "youth hostel": "Jugendherberge"
+      }
+    },
+    "match_544c5d48": {
+      "pairs": {
+        "track": "Spur",
+        "to touch": "berühren",
+        "article": "Artikel",
+        "against": "gegen",
+        "tent": "Zelt",
+        "to capsize": "kentern",
+        "to look": "schauen",
+        "to grunt": "grunzen"
+      }
+    },
+    "match_889cd0f2": {
+      "pairs": {
+        "safe": "sicher",
+        "cactus": "Kaktus",
+        "rain": "Regen",
+        "flashlight": "Taschenlampe",
+        "no wonder": "kein Wunder",
+        "to look up": "nachschlagen",
+        "to bite": "beißen",
+        "terrible": "schrecklich"
+      }
+    }
+  },
+  "hard_spelling": {
+    "spell_8aa6e009": {
+      "answer": "wide"
+    },
+    "spell_b0e9a281": {
+      "answer": "tidy"
+    },
+    "spell_485ad29b": {
+      "answer": "track"
+    },
+    "spell_9f1503ee": {
+      "answer": "to look after"
+    },
+    "spell_026d74ec": {
+      "answer": "right"
+    }
+  },
+  "hard_hangman": {
+    "hang_a047f3f9": {
+      "answer": "assistant"
+    },
+    "hang_008f4307": {
+      "answer": "planet"
+    },
+    "hang_65c0ed3e": {
+      "answer": "realistic"
+    },
+    "hang_67209e68": {
+      "answer": "opposite"
+    },
+    "hang_5af4fd07": {
+      "answer": "no wonder"
+    }
+  }
+}

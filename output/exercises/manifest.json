@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-11T08:12:50.177190+00:00",
+  "totalSets": 12,
+  "sets": [
+    {
+      "key": "easy_fill_in_blank",
+      "path": "easy\\fill_in_blank.json",
+      "type": "fill_in_blank",
+      "difficulty": "easy",
+      "exerciseCount": 5,
+      "name": "Fill In Blank - Easy"
+    },
+    {
+      "key": "easy_matching",
+      "path": "easy\\matching.json",
+      "type": "matching",
+      "difficulty": "easy",
+      "exerciseCount": 5,
+      "name": "Matching - Easy"
+    },
+    {
+      "key": "easy_spelling",
+      "path": "easy\\spelling.json",
+      "type": "spelling",
+      "difficulty": "easy",
+      "exerciseCount": 5,
+      "name": "Spelling - Easy"
+    },
+    {
+      "key": "easy_hangman",
+      "path": "easy\\hangman.json",
+      "type": "hangman",
+      "difficulty": "easy",
+      "exerciseCount": 5,
+      "name": "Hangman - Easy"
+    },
+    {
+      "key": "medium_fill_in_blank",
+      "path": "medium\\fill_in_blank.json",
+      "type": "fill_in_blank",
+      "difficulty": "medium",
+      "exerciseCount": 5,
+      "name": "Fill In Blank - Medium"
+    },
+    {
+      "key": "medium_matching",
+      "path": "medium\\matching.json",
+      "type": "matching",
+      "difficulty": "medium",
+      "exerciseCount": 5,
+      "name": "Matching - Medium"
+    },
+    {
+      "key": "medium_spelling",
+      "path": "medium\\spelling.json",
+      "type": "spelling",
+      "difficulty": "medium",
+      "exerciseCount": 5,
+      "name": "Spelling - Medium"
+    },
+    {
+      "key": "medium_hangman",
+      "path": "medium\\hangman.json",
+      "type": "hangman",
+      "difficulty": "medium",
+      "exerciseCount": 5,
+      "name": "Hangman - Medium"
+    },
+    {
+      "key": "hard_fill_in_blank",
+      "path": "hard\\fill_in_blank.json",
+      "type": "fill_in_blank",
+      "difficulty": "hard",
+      "exerciseCount": 5,
+      "name": "Fill In Blank - Hard"
+    },
+    {
+      "key": "hard_matching",
+      "path": "hard\\matching.json",
+      "type": "matching",
+      "difficulty": "hard",
+      "exerciseCount": 5,
+      "name": "Matching - Hard"
+    },
+    {
+      "key": "hard_spelling",
+      "path": "hard\\spelling.json",
+      "type": "spelling",
+      "difficulty": "hard",
+      "exerciseCount": 5,
+      "name": "Spelling - Hard"
+    },
+    {
+      "key": "hard_hangman",
+      "path": "hard\\hangman.json",
+      "type": "hangman",
+      "difficulty": "hard",
+      "exerciseCount": 5,
+      "name": "Hangman - Hard"
+    }
+  ]
+}
